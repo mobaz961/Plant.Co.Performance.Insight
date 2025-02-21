@@ -1,4 +1,4 @@
-## Title: Plant Co. Performance Analysis 2024
+## Title: Plant Co. Performance Insight 2024
 
 #### Plant Co. specializes in selling indoor, landscape, and outdoor plants.
 
